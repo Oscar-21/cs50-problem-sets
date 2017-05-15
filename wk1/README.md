@@ -1,6 +1,6 @@
 # Installation
 
-## With GCC compiler
+### With GCC compiler
 ```
 // create object files
 gcc -std=c11 -c cs50.c
